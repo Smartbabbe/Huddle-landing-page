@@ -1,0 +1,104 @@
+footer{
+    text-align: top;
+    height: 500px;
+    background-color: hsl(192, 100%, 9%);
+    padding: 5px 50px 50px 50px;
+}
+
+.footerlogo {  
+    margin-top: 100px;
+    height: 40px;
+    display: block;
+}
+
+.mainfooter {
+    padding: 20px;
+    position: relative;
+
+}
+
+.imhh {
+    position: absolute;
+    top: 40px;
+}
+.iconlo {
+    grid-auto-rows: min-content;
+    margin-left: 50px;
+    display: inline-block;
+    width: 60%;
+}
+
+.iconphone {
+    margin-left: 20px;
+    display: inline-block;
+}
+
+.iconemail {
+    margin-left: 20px;
+    display: inline-block;
+}
+
+.div1{
+    width: 25%;
+    display: inline-block;
+}
+
+.div2{
+    width: 25%;
+    display: inline-block;
+    position: absolute;
+    top: 40px;
+    left: 500px;
+}
+
+.div3{
+display: inline-block;
+width: 20%;
+position: absolute;
+    top: 40px;
+    left: 700px;
+}
+
+.div4 {
+    display: inline-block;
+    width: 25%;
+    position: absolute;
+    top: 20px;
+    left: 1000px;
+}
+
+.row {
+    color: white;
+}
+
+.footer4 img {
+    height: 30px;
+}
+
+.socialicons {
+    width: 80%;
+}
+
+.facebook {
+    padding: 5px;
+    border-radius: 50%;
+    background-color: antiquewhite;
+    margin-right: 20px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+.twitter{
+    padding: 5px;
+    border-radius: 50%;
+    background-color: antiquewhite;
+}
+
+.instagram {
+    padding: 5px;
+    border-radius: 50%;
+    background-color: antiquewhite;
+    margin-right: 20px;
+}
