@@ -1,3 +1,3 @@
-# responsiveness2
+# Huddle landing page
 
-https://smartbabbe.github.io/responsiveness2/   link to pages
+link to live page - https://smartbabbe.github.io/responsiveness2/   
